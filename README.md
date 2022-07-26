@@ -21,7 +21,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![R]([https://img.shields.io/badge/interest-R-green](https://img.shields.io/badge/proficient-R-green))
+![R](https://img.shields.io/badge/proficient-R-green)
 ![shell](https://img.shields.io/badge/proficient-shell-orange)
 ![php](https://img.shields.io/badge/familiar-php-blue)
 ![Python](https://img.shields.io/badge/experiences-python-red)
