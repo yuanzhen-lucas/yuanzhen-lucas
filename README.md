@@ -29,7 +29,7 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:2339325066@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-648941183@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:2339325066@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2339325066@qq.com-blue?style=flat-square&logo=gmail"></a>
 
 
 
