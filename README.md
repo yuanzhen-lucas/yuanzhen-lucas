@@ -15,7 +15,7 @@
 
 <strong>A bioinformatics student from Fujian,China. </strong>
 
-<strong>[This is my blog] (https://yuanzhen-lucas.github.io/)</strong>
+<strong>[This is my blog](https://yuanzhen-lucas.github.io/)</strong>
 
 </pre> 
 
