@@ -14,7 +14,7 @@
 <strong>Hi, I am Lucas Yuan!👋 </strong>
 
 <strong>A bioinformatics student from Fujian,China. </strong>
-<strong><a href="https://yuanzhen-lucas.github.io/">Blog of my thoughts and my love </a>.</strong>
+<strong><a href="https://yuanzhen-lucas.github.io/">Blog of my thoughts and love </a>.</strong>
 
 
 </pre> 
