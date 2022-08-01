@@ -14,8 +14,7 @@
 
 <strong>Hi, I am Lucas Yuan!👋 </strong>
 
-<strong>A bioinformatics student from Fujian,China. </strong>
-
+<strong>A bioinformatics student from Hubei,China. </strong>
 
 </pre> 
 
