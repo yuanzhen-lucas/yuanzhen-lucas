@@ -16,7 +16,7 @@
 
 <strong>A bioinformatics student from Fujian,China. </strong>
 
-<strong><a href="https://yuanzhen-lucas.github.io/">Blog of my thoughts and love </a>.</strong>
+<strong><a href="https://yuanzhen-lucas.github.io/">Blog of my thoughts and love </a></strong>
 
 </pre> 
 
