@@ -54,8 +54,6 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-####  Contributions and Streaks
-<img  height="200em" width="2000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuanzhen-lucas&theme=radical"/>
 
 
 
