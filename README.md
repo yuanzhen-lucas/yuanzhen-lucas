@@ -22,6 +22,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p>
 <img alt="R" src="https://img.shields.io/badge/R-47A141?style=flat-square&logo=R&logoColor=white" >
+<img alt="Python" src="https://img.shields.io/badge/Python-A14177?style=flat-square&logo=Python&logoColor=white" >
 <img alt="Shell" src="https://img.shields.io/badge/Shell-777BB4?style=flat-square&logo=Shell&logoColor=white" >
 <img alt="php" src="https://img.shields.io/badge/PHP-3776AB?style=flat-square&logo=PHP&logoColor=white" >
 <!-- <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" > -->
@@ -35,7 +36,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="mailto:yuanzhen_lucas@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-yuanzhen_lucas@163.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:yuanlucaszhen@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yuanlucaszhen@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <a href="mailto:yc47658@connect.um.edu.mo"><img alt="Email" src="https://img.shields.io/badge/Email-yc47658@connect.um.edu.mo-blue?style=flat-square&logo=gmail"></a>
 
