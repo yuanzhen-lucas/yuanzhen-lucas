@@ -35,9 +35,9 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="mailto:yuanzhen_lucas@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-2339325066@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:yuanzhen_lucas@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-yuanzhen_lucas@163.com-blue?style=flat-square&logo=gmail"></a>
 
-<a href="mailto:yc47658@connect.um.edu.mo"><img alt="Email" src="https://img.shields.io/badge/Email-2339325066@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:yc47658@connect.um.edu.mo"><img alt="Email" src="https://img.shields.io/badge/Email-yc47658@connect.um.edu.mo-blue?style=flat-square&logo=gmail"></a>
 
 <a href="https://yuanzhen-lucas.github.io/"><img alt="Blog" src="https://img.shields.io/badge/Blog-Yuanzhen-green?style=flat-square&l"></a>
 
