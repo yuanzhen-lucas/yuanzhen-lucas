@@ -42,21 +42,5 @@
 
 
 
-#### My GitHub Stats
-
-![Visitor Count](https://profile-counter.glitch.me/yuanzhen-lucas/count.svg)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="300em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzhen-lucas&theme=radical&layout=compact"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="300em" align="center" src="https://github-readme-stats.vercel.app/api?username=yuanzhen-lucas&show_icons=true&theme=radical"/>
-</a>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
